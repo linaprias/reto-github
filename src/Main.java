@@ -23,5 +23,9 @@ public class Main {
         claseSaludo.setSaludo("Hola mundo!!!");
 
         claseSaludo.imprimirSaludo();
+
+        claseSaludo.setDespedida("Adios mundo!!!!");
+
+        claseSaludo.imprimirDespedida();
     }
 }
